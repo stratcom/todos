@@ -10,6 +10,18 @@ body{
 	text-align: center;
 }
 
+li{
+	list-style-type: none;
+}
+
+.checkbox{
+	display: inline-block;
+}
+
+.todoItem{
+	display: inline-block;
+}
+
 h1{
 	
 
